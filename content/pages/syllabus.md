@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains the course meeting times and course requirements
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: bf9bad13-285f-bbbf-b452-4195d3d41dbc
 ---
@@ -103,4 +106,4 @@ _Covering all the material in the class, with emphasis on the second half_
 
 {{< tableclose >}}
 
- For more information on the memos and the group project, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+ For more information on the memos and the group project, see the {{% resource_link 8c21449d-81bb-1610-8870-8b64fb62f5d2 "Assignments" %}} section.
