@@ -38,27 +38,27 @@ Historical Antecedents and Contemporary Varieties of Capitalist Democracies
 
 On voting systems:
 
-“{{% resource_link "12fd1fb5-baf3-4020-8301-e5685acf2668" "First Past the Post vs. Proportional Representation" %}}.” YouTube.
+“[First Past the Post vs. Proportional Representation](https://www.youtube.com/watch?v=G2ljLsg9UFk).” YouTube.
 
 On European parties generally:
 
-“{{% resource_link "9d387477-8aeb-45d6-9d23-38d9c0b03a27" "European Political Parties EXPLAINED" %}}.” YouTube.
+“[European Political Parties EXPLAINED](https://www.youtube.com/watch?v=2eArjf9OzZE).” YouTube.
 
 *Read*
 
-\[L\] Chapter 1: Introduction.  \[Preview with {{% resource_link "f1621a6c-03a2-476d-9d8b-0a12fd44ee89" "Google Books" %}}\]
+\[L\] Chapter 1: Introduction.  \[Preview with [Google Books](https://www.google.com/books/edition/Patterns_of_Democracy/j_6r6WtJPiYC?hl=en&gbpv=1)\]
 
-\[L\] Chapter 2: The Westminster Model of Democracy. \[Preview with {{% resource_link "f1621a6c-03a2-476d-9d8b-0a12fd44ee89" "Google Books" %}}\]
+\[L\] Chapter 2: The Westminster Model of Democracy. \[Preview with [Google Books](https://www.google.com/books/edition/Patterns_of_Democracy/j_6r6WtJPiYC?hl=en&gbpv=1)\]
 
-\[L\] Chapter 3: The Consensus Model of Democracy. \[Preview with {{% resource_link "f1621a6c-03a2-476d-9d8b-0a12fd44ee89" "Google Books" %}}\]
+\[L\] Chapter 3: The Consensus Model of Democracy. \[Preview with [Google Books](https://www.google.com/books/edition/Patterns_of_Democracy/j_6r6WtJPiYC?hl=en&gbpv=1)\]
 
-Norris, Pippa. “{{% resource_link "b3b29881-5efe-4c32-926f-94f62721679d" "Choosing Electoral Systems: Proportional, Majoritarian, and Mixed Systems" %}}.” *International Political Science Review* 18, no.3 (1997): 297–312.
+Norris, Pippa. “[Choosing Electoral Systems: Proportional, Majoritarian, and Mixed Systems](https://journals.sagepub.com/doi/10.1177/019251297018003005).” *International Political Science Review* 18, no.3 (1997): 297–312.
 
-Kemp, Tom. “British and European Industrialization.” Chapter 1 in *Industrialization in Nineteenth-Century Europe*. 2nd ed. Routledge, 1985. ISBN: 9780582493841. \[Preview with {{% resource_link "29c32400-c02c-47ad-be87-eb4961bfeee1" "Google Books" %}}\]
+Kemp, Tom. “British and European Industrialization.” Chapter 1 in *Industrialization in Nineteenth-Century Europe*. 2nd ed. Routledge, 1985. ISBN: 9780582493841. \[Preview with [Google Books](https://www.google.com/books/edition/Industrialization_in_Nineteenth_Century/bcgFBAAAQBAJ?hl=en&gbpv=1)\]
 
  ———. “The Rise of Industrial Germany.” Chapter 4 in *Industrialization in Nineteenth-Century Europe*. 2nd ed. Routledge, 1985. ISBN: 9780582493841. 
 
-Berman, Sheri. “Introduction.” Chapter 1 in *The Primacy of Politics: Social Democracy and the Making of Europe’s Twentieth Century*. Cambridge University Press, 2006. ISBN: 9780521521109. \[Preview with {{% resource_link "df7b066b-6d22-4ff2-9484-5dff7c101c21" "Google Books" %}}\]
+Berman, Sheri. “Introduction.” Chapter 1 in *The Primacy of Politics: Social Democracy and the Making of Europe’s Twentieth Century*. Cambridge University Press, 2006. ISBN: 9780521521109. \[Preview with [Google Books](https://www.google.com/books/edition/The_Primacy_of_Politics/BNV5uVCQnq8C?hl=en&gbpv=1)\]
 
 *Come to class ready to discuss these discussion questions:*
 
@@ -79,27 +79,27 @@ Concepts and Comparisons: Varieties of Capitalism and Welfare Regimes
 
 On “Anglo – Saxon capitalism”: 
 
-“{{% resource_link "4b04de1a-9a42-4769-9fc8-4bc788662a9b" "What is Anglo – Saxon Capitalism?" %}}” YouTube.
+“[What is Anglo – Saxon Capitalism?](https://www.youtube.com/watch?v=TG2_8OCxEn0)” YouTube.
 
 On German capitalism:
 
-“{{% resource_link "547a9235-6bf4-43f4-ac4d-c12b8edbe77d" "How Does German Economy Compare to United States Economy?" %}}” YouTube.
+“[How Does German Economy Compare to United States Economy?](https://www.youtube.com/watch?v=nCHwcKib5J8&list=PLnaMUeLAWU9pIV7ALy-0tE_KxSNBWxmf3&index=34&t=0s)” YouTube.
 
 Two views of Scandinavian Social democracy (one from obvious fans, the other from the representative of a conservative think tank):
 
-“{{% resource_link "e3c320b6-1841-4fe9-9105-d5787901ddff" "American Capitalism vs. Swedish Socialism? You Decide" %}}.” YouTube.
+“[American Capitalism vs. Swedish Socialism? You Decide](https://www.youtube.com/watch?v=4opFbB6okwo).” YouTube.
 
-“{{% resource_link "785a0ac4-c76d-4b9a-a22f-cf62d991fbe8" "How Sweden Transformed Into a Capitalist Economy" %}}.” YouTube.
+“[How Sweden Transformed Into a Capitalist Economy](https://www.youtube.com/watch?v=kBm6iPG6fBg).” YouTube.
 
 *Read*
 
-\[B\] Chapter 1: Introduction. \[Preview with {{% resource_link "d69d0c0b-2ffc-4920-aa6e-0f642ffaa1f8" "Google Books" %}}\]
+\[B\] Chapter 1: Introduction. \[Preview with [Google Books](https://www.google.com/books/edition/Capitalisms_Compared/emIXBAAAQBAJ?hl=en&gbpv=1&dq=Capitalisms+Compared:+Welfare,+Work,+and+Business&printsec=frontcover)\]
 
-Hall, Peter A., and David Soskice. “An Introduction to Varieties of Capitalism.” Chapter 1 in *Debating Varieties of Capitalism: A Reader*. Edited by Bob Hancké. Oxford University Press, 2009. ISBN: 9780199569663. \[Preview with {{% resource_link "24208300-5d0e-4df0-8965-ab124a664e3a" "Google Books" %}}\]
+Hall, Peter A., and David Soskice. “An Introduction to Varieties of Capitalism.” Chapter 1 in *Debating Varieties of Capitalism: A Reader*. Edited by Bob Hancké. Oxford University Press, 2009. ISBN: 9780199569663. \[Preview with [Google Books](http://www.google.com/books/edition/Debating_Varieties_of_Capitalism/dmkVDAAAQBAJ?hl=en&gbpv=1)\]
 
 Esping-Andersen, Gøsta. “The Three Political Economies of the Welfare State.” Chapter 1 in *The Three Worlds of Welfare Capitalism*. Princeton University Press, 1990. ISBN: 9780691028576. 
 
-Iversen, Torben, and John D. Stephens. “{{% resource_link "8e3f40a7-43af-49ca-9a06-d9136c7a4378" "Partisan Politics, the Welfare State, and Three Worlds of Human Capital Formation" %}}.” *Comparative Political Studies* 41, no. 4–5 (2008): 600–637.
+Iversen, Torben, and John D. Stephens. “[Partisan Politics, the Welfare State, and Three Worlds of Human Capital Formation](https://journals.sagepub.com/doi/10.1177/0010414007313117).” *Comparative Political Studies* 41, no. 4–5 (2008): 600–637.
 
 *Come prepared to discuss the discuss these questions (and make sure you are able to identify all the terms at the end of the Bowman chapter):*
 
@@ -115,24 +115,24 @@ Britain I: Political Institutions
 
 *Read*
 
-{{% resource_link "ca1238f9-19c7-4777-9607-6cb851a50d02" "Contrasts between the American and British Political Systems" %}}.
+[Contrasts between the American and British Political Systems](http://www.rogerdarlington.me.uk/USvsUK.html).
 
 Heffernan, Richard. “Political Parties.” Chapter 24 in *The Oxford Handbook of British Politics*. Edited by Matthew Flinders, Andrew Gamble, Colin Hay, and Michael Kenny. Oxford University Press, 2011. ISBN: 9780199604449. 
 
 Two articles from *The* *Economist* on the House of Lords:
 
-- J.C. “{{% resource_link "eb46dece-645a-4188-a559-61eeeaebadf9" "The Economist Explains: What the House of Lords is For" %}}.” *The Economist*, July 30, 2015.
-- “{{% resource_link "8579e438-8f07-4e3e-9553-c97170122303" "Britain's House of Lords: Right Answer, Spoken Out of Turn" %}}.” *The Economist*, October 31, 2015.
+- J.C. “[The Economist Explains: What the House of Lords is For](https://www.economist.com/the-economist-explains/2015/07/29/what-the-house-of-lords-is-for).” *The Economist*, July 30, 2015.
+- “[Britain's House of Lords: Right Answer, Spoken Out of Turn](https://www.economist.com/leaders/2015/10/31/right-answer-spoken-out-of-turn).” *The Economist*, October 31, 2015.
 
-Flinders, Matthew. “{{% resource_link "a3724238-9262-405a-9cbc-2374fe9d9233" "Majoritarian Democracy in Britain: New Labour and the Constitution" %}}.” *West European Politics* 28, no. 1 (2005): 61–93.
+Flinders, Matthew. “[Majoritarian Democracy in Britain: New Labour and the Constitution](https://www.tandfonline.com/doi/abs/10.1080/0140238042000297099).” *West European Politics* 28, no. 1 (2005): 61–93.
 
-McTague, Tom. “{{% resource_link "1d1b6f95-0ace-47f2-982d-c761b6a06303" "Britain’s Political Chaos Shows Everything Is Okay" %}}.” *The Atlantic*, September 4, 2019.
+McTague, Tom. “[Britain’s Political Chaos Shows Everything Is Okay](https://www.theatlantic.com/international/archive/2019/09/britain-politics-chaotic-constitution-working/597340/).” *The Atlantic*, September 4, 2019.
 
 Wilson, Graham K. “Government and Politics in Britain.” Chapter 3 in *Business and Politics: A Comparative Introduction*. 3rd ed. Palgrave, 2002. ISBN: 9780333962053. 
 
 Longstreth, Frank. “The City, Industry and the State.” Chapter 5 in *State and Economy in Contemporary Capitalism*. Edited by Colin Crouch. Palgrave Macmillan, 1979, pp. 160–73. ISBN: 9780312756017. 
 
-Shaxson, Nicholas.“{{% resource_link "8652ee43-6f31-4e82-b4b5-419624e07433" "The Finance Curse: How the Outsized Power of the City of London Makes Britain Poorer" %}},” *The Guardian*, October 5, 2018.
+Shaxson, Nicholas.“[The Finance Curse: How the Outsized Power of the City of London Makes Britain Poorer](https://www.theguardian.com/news/2018/oct/05/the-finance-curse-how-the-outsized-power-of-the-city-of-london-makes-britain-poorer),” *The Guardian*, October 5, 2018.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -142,23 +142,23 @@ Britain II: Politics and Political Economy
 
 *View*
 
-“{{% resource_link "ebfffd0e-b9d3-477a-9306-60564b495f6b" "Thatcher. A Very British Revolution, Episode 2: Power" %}}.” Dailymotion. (Start at about 16 mins.)
+“[Thatcher. A Very British Revolution, Episode 2: Power](https://www.dailymotion.com/video/x7a6o8b).” Dailymotion. (Start at about 16 mins.)
 
 *Read*
 
-\[D\] Chapter 3: The Conservative Party Post-Thatcherism. \[Preview with {{% resource_link "b989aafe-2c31-4858-a100-dd13c92fe2c2" "Google Books" %}}\]
+\[D\] Chapter 3: The Conservative Party Post-Thatcherism. \[Preview with [Google Books](https://www.google.com/books/edition/Understanding_British_Party_Politics/FFN69PhXzykC?hl=en&gbpv=1)\]
 
-\[D\] Chapter 4: ‘New Labour’ and the Labour Party. \[Preview with {{% resource_link "b989aafe-2c31-4858-a100-dd13c92fe2c2" "Google Books" %}}\]
+\[D\] Chapter 4: ‘New Labour’ and the Labour Party. \[Preview with [Google Books](https://www.google.com/books/edition/Understanding_British_Party_Politics/FFN69PhXzykC?hl=en&gbpv=1)\]
 
 \[D\] Chapter 5: The Liberal Democrats: From Protest to Power. 
 
-\[R\] Chapter 2: The Beginnings of Thatcherism, 1979–1983. \[Preview with {{% resource_link "a249185d-1871-4a57-9964-4b125913eb62" "Google Books" %}}\]
+\[R\] Chapter 2: The Beginnings of Thatcherism, 1979–1983. \[Preview with [Google Books](https://www.google.com/books/edition/The_Thatcher_Revolution/7qaMqwGRE00C?hl=en&gbpv=1)\]
 
-\[R\] Chapter 3: The Heyday of Thatcherism, 1983–1987. \[Preview with {{% resource_link "a249185d-1871-4a57-9964-4b125913eb62" "Google Books" %}}\]
+\[R\] Chapter 3: The Heyday of Thatcherism, 1983–1987. \[Preview with [Google Books](https://www.google.com/books/edition/The_Thatcher_Revolution/7qaMqwGRE00C?hl=en&gbpv=1)\]
 
-\[R\] Chapter 4: The Fall of Margaret Thatcher, 1987–1990. \[Preview with {{% resource_link "a249185d-1871-4a57-9964-4b125913eb62" "Google Books" %}}\]
+\[R\] Chapter 4: The Fall of Margaret Thatcher, 1987–1990. \[Preview with [Google Books](https://www.google.com/books/edition/The_Thatcher_Revolution/7qaMqwGRE00C?hl=en&gbpv=1)\]
 
-\[R\] Chapter 8: The Triumph of ‘New Labour,’ 1994–1997. \[Preview with {{% resource_link "a249185d-1871-4a57-9964-4b125913eb62" "Google Books" %}}\]
+\[R\] Chapter 8: The Triumph of ‘New Labour,’ 1994–1997. \[Preview with [Google Books](https://www.google.com/books/edition/The_Thatcher_Revolution/7qaMqwGRE00C?hl=en&gbpv=1)\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -168,23 +168,23 @@ Britain III: Contemporary Party Dynamics and Brexit
 
 *Read*
 
-“{{% resource_link "a42a5e99-5b85-4317-b9af-e5a084cb167a" "Bagehot: Could Ed Davey Lead a Lib Dem Revival?" %}}” *The Economist*, September 3, 2020.
+“[Bagehot: Could Ed Davey Lead a Lib Dem Revival?](https://www.economist.com/britain/2020/09/03/could-ed-davey-lead-a-lib-dem-revival)” *The Economist*, September 3, 2020.
 
 Glennerster, Howard. “Welfare Reform.” Chapter 37 in *The Oxford Handbook of British Politics.* Edited by Matthew Flinders, Andrew Gamble, Colin Hay, and Michael Kenny. Oxford University Press, 2011. ISBN: 9780199604449. (Read section 37.3 only.) 
 
-Gingrich, Jane, and Desmond King. “{{% resource_link "5025f282-fd64-4f97-9846-5225d51f44ee" "Americanizing Brexit Britain’s Welfare State?" %}}” *Political Quarterly* 90, no. 1 (2019): 89–98.
+Gingrich, Jane, and Desmond King. “[Americanizing Brexit Britain’s Welfare State?](https://onlinelibrary.wiley.com/doi/full/10.1111/1467-923X.12616)” *Political Quarterly* 90, no. 1 (2019): 89–98.
 
-Kelly, Gavin, and Nick Pearce. “{{% resource_link "f66706be-58c6-4490-9542-07d0113a12f5" "Introduction: Brexit and the Future of the British Model of Democratic Capitalism" %}}.” *Political Quarterly* 90, issue S2 (2019): 1–11.
+Kelly, Gavin, and Nick Pearce. “[Introduction: Brexit and the Future of the British Model of Democratic Capitalism](https://onlinelibrary.wiley.com/doi/full/10.1111/1467-923X.12644).” *Political Quarterly* 90, issue S2 (2019): 1–11.
 
-{{% resource_link "0f0cb228-6411-497b-8f49-1c85e4df2395" "“Special Topic: Populism and Brexit.” (PDF - 2.5MB)" %}} *Comparative Politics Newsletter* 26, no. 2 (2016): 107–23.
+[“Special Topic: Populism and Brexit.” (PDF - 2.5MB)](http://mattgolder.com/files/research/newsletter_fall2016.pdf) *Comparative Politics Newsletter* 26, no. 2 (2016): 107–23.
 
-Usherwood, Simon. {{% resource_link "608ea9b8-ec4d-4b8f-ba1d-ab46662d3bb5" "“Shooting the Fox? UKIP’s Populism in the Post-Brexit Era.” (PDF - 1.4MB)" %}} *West European Politics* 42, no. 6 (2019): 1209–29.
+Usherwood, Simon. [“Shooting the Fox? UKIP’s Populism in the Post-Brexit Era.” (PDF - 1.4MB)](http://epubs.surrey.ac.uk/850714/1/Shooting%20the%20fox.pdf) *West European Politics* 42, no. 6 (2019): 1209–29.
 
-Barry, Ellen and Stephen Castle. “{{% resource_link "ba62392e-4b79-4221-86b4-564d378f9d99" "Amid Parliament’s Brexit Rebellion, a Tectonic Shift in How Britain is Governed" %}},” *New York Times*, January 15, 2019.
+Barry, Ellen and Stephen Castle. “[Amid Parliament’s Brexit Rebellion, a Tectonic Shift in How Britain is Governed](https://www.nytimes.com/2019/01/15/world/europe/brexit-britain-parliament-theresa-may.html),” *New York Times*, January 15, 2019.
 
-“{{% resource_link "de4f6aa0-a15f-4cad-a7cd-0019caa80ec1" "The Next Crisis: The Brexit Referendum and the British Constitution" %}}.” *The Economist*, May 30, 2019.
+“[The Next Crisis: The Brexit Referendum and the British Constitution](https://www.economist.com/briefing/2019/05/30/the-brexit-referendum-and-the-british-constitution).” *The Economist*, May 30, 2019.
 
-“{{% resource_link "aac465d8-330a-4f8f-85b3-c21a7e479f2b" "Bagehot: Whatever the Question, the Answer is Germany" %}}.” *The Economist*, August 29, 2020.
+“[Bagehot: Whatever the Question, the Answer is Germany](https://www.economist.com/britain/2020/08/29/whatever-the-question-the-answer-is-germany).” *The Economist*, August 29, 2020.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -196,17 +196,17 @@ Germany I: Politics and Political Institutions
 
 Katzenstein, Peter J. “The Taming of Power: West Germany's Semisovereign State.” Chapter 1 in *Policy and Politics in West Germany: The Growth of a Semisovereign State*. Temple University Press, 1987. ISBN: 9780877222637.
 
-Lees, Charles. “{{% resource_link "340a69c7-9a51-49a8-9f58-2c53ceac446d" "Christian Democracy Is Dead; Long Live the Union Parties: Explaining CDU/CSU Dominance within the German Party System" %}}.” *German Politics* 22, no. 1–2 (2013): 64–81.
+Lees, Charles. “[Christian Democracy Is Dead; Long Live the Union Parties: Explaining CDU/CSU Dominance within the German Party System](https://www.tandfonline.com/doi/abs/10.1080/09644008.2013.794453).” *German Politics* 22, no. 1–2 (2013): 64–81.
 
 Frankland, E. Gene. “Federal Republic of Germany: ‘Die Grünen’.” Chapter 5 in *New Politics in Western Europe: The Rise and Success of Green Parties and Alternative Lists*. Edited by Ferdinand Müller-Rommel. Routledge, 2019. ISBN: 9780367014438.
 
-“{{% resource_link "6d8853f4-575c-4280-9d53-54b527a78c6d" "Germany’s Political Parties — What You Need to Know" %}}.” Deutsche Welle.
+“[Germany’s Political Parties — What You Need to Know](https://www.dw.com/en/germanys-political-parties-cdu-csu-spd-afd-fdp-left-party-greens-what-you-need-to-know/a-38085900).” Deutsche Welle.
 
-Poguntke, Thomas. “{{% resource_link "2e5255c7-63ec-4767-9095-f9582f857f1f" "The German Party System: Eternal Crisis?" %}}” *German Politics* 10, no. 2 (2001): 37–50.
+Poguntke, Thomas. “[The German Party System: Eternal Crisis?](https://www.tandfonline.com/doi/abs/10.1080/772713262)” *German Politics* 10, no. 2 (2001): 37–50.
 
-Hough, Dan, and Emil Kirchner. “{{% resource_link "aa17dee0-ead9-4706-a20b-13ad1e80e0bd" "Germany at 60: Stability and Success, Problems and Challenges" %}}.” *German Politics* 19, no. 1 (2010): 1–8.
+Hough, Dan, and Emil Kirchner. “[Germany at 60: Stability and Success, Problems and Challenges](http://sro.sussex.ac.uk/id/eprint/16353/).” *German Politics* 19, no. 1 (2010): 1–8.
 
-“{{% resource_link "b8ba1fd4-2a78-4aeb-9e0d-884bac46875e" "Europe's Grown-Up: How Angela Merkel is Changing, and Not Changing, Germany" %}}.” *The Economist,* September 9, 2017.
+“[Europe's Grown-Up: How Angela Merkel is Changing, and Not Changing, Germany](http://www.economist.com/briefing/2017/09/09/how-angela-merkel-is-changing-and-not-changing-germany).” *The Economist,* September 9, 2017.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -220,17 +220,17 @@ Germany II: Political Economy
 
 *Germany's training system:*
 
-“{{% resource_link "af5a28c8-9c06-44dc-b24f-7a4fe984fcac" "Dual VET – Vocational Education and Training in Germany (English)" %}}.” YouTube. (Somewhat promotional but describes the basic system.)
+“[Dual VET – Vocational Education and Training in Germany (English)](https://www.youtube.com/watch?v=sXhSRoSFxuU).” YouTube. (Somewhat promotional but describes the basic system.)
 
 *Read*
 
-\[B\] Chapter 5: The Labor Market. \[Preview with {{% resource_link "d69d0c0b-2ffc-4920-aa6e-0f642ffaa1f8" "Google Books" %}}\]
+\[B\] Chapter 5: The Labor Market. \[Preview with [Google Books](https://www.google.com/books/edition/Capitalisms_Compared/emIXBAAAQBAJ?hl=en&gbpv=1&dq=Capitalisms+Compared:+Welfare,+Work,+and+Business&printsec=frontcover)\]
 
 Wilson, Graham K. “The Past, Present and Future of Neocorporatism.” Chapter 5 in *Business and Politics: A Comparative Introduction*. 3rd ed. Palgrave, 2002. ISBN: 9780333962053. 
 
-Page, Rebecca. {{% resource_link "f88e770e-0871-4d5d-a054-ee773d7dba67" "“Codetermination in Germany – A Beginners’ Guide. 5. überarbeitete Auflage.” (PDF - 1.5MB)" %}} Arbeitspapier, No. 33. 2011. (Read pp. 10–25 only.)
+Page, Rebecca. [“Codetermination in Germany – A Beginners’ Guide. 5. überarbeitete Auflage.” (PDF - 1.5MB)](https://www.econstor.eu/bitstream/10419/116496/1/hbs_arbp_033.pdf) Arbeitspapier, No. 33. 2011. (Read pp. 10–25 only.)
 
-Bruegel, Bennet Berger, and Elena Vaccarino. “{{% resource_link "f6f16b32-6d6c-4bf7-8618-b6065047c376" "Blog Post: Codetermination in Germany – A Role Model for the UK and the US?" %}},” *Bruegel Newsletter*, October 13, 2016.
+Bruegel, Bennet Berger, and Elena Vaccarino. “[Blog Post: Codetermination in Germany – A Role Model for the UK and the US?](https://www.bruegel.org/2016/10/codetermination-in-germany-a-role-model-for-the-uk-and-the-us/),” *Bruegel Newsletter*, October 13, 2016.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -244,17 +244,17 @@ Germany III: Contemporary Politics and Party Dynamics
 
 *Read*
 
-“{{% resource_link "bbde6b66-17e6-4d13-b1a9-ae2c10e7b3c2" "Nature v Nurture: Why East and West German Women Still Work Vastly Different Hours" %}}.” *The Economist*, October 3, 2020.
+“[Nature v Nurture: Why East and West German Women Still Work Vastly Different Hours](https://www.economist.com/finance-and-economics/2020/10/03/why-east-and-west-german-women-still-work-vastly-different-hours).” *The Economist*, October 3, 2020.
 
-Kluth, Andreas. “{{% resource_link "67608baa-aa28-4d32-b200-fa32792daf7a" "The Changing Political Party Landscape in Germany" %}}.” May 9, 2019. American Institute for Contemporary German Studies.
+Kluth, Andreas. “[The Changing Political Party Landscape in Germany](https://www.aicgs.org/2019/05/the-changing-political-party-landscape-in-germany/).” May 9, 2019. American Institute for Contemporary German Studies.
 
-Rensmann, Lars. “{{% resource_link "35bff7d6-6157-4f48-86f0-ac2353af6c35" "Radical Right-Wing Populists in Parliament: Examining the Alternative for Germany in European Context" %}}.” *German Politics and Society* 36, no. 3 (2018): 41–73.
+Rensmann, Lars. “[Radical Right-Wing Populists in Parliament: Examining the Alternative for Germany in European Context](https://www.rug.nl/research/portal/publications/radical-rightwing-populists-in-parliament(96d74525-e71f-44b1-981e-d60fceb0b210).html).” *German Politics and Society* 36, no. 3 (2018): 41–73.
 
-Patton, David F. “{{% resource_link "93451480-af73-4c24-ac58-88b2c44f0185" "The Left Party at Six: The PDS–WASG Merger in Comparative Perspective" %}}.” *German Politics* 22, no. 3 (2013): 219–34.
+Patton, David F. “[The Left Party at Six: The PDS–WASG Merger in Comparative Perspective](https://www.tandfonline.com/doi/abs/10.1080/09644008.2013.794454?journalCode=fgrp20).” *German Politics* 22, no. 3 (2013): 219–34.
 
-Rothstein, Sidney A., and Tobias Schulze-Cleven. “{{% resource_link "238b6027-e3c7-488f-8c77-4e0d689c5ca7" "Germany After the Social Democratic Century: The Political Economy of Imbalance" %}}.” *German Politics* 29, no. 3 (2020): 297–318.
+Rothstein, Sidney A., and Tobias Schulze-Cleven. “[Germany After the Social Democratic Century: The Political Economy of Imbalance](https://www.tandfonline.com/doi/abs/10.1080/09644008.2020.1752677).” *German Politics* 29, no. 3 (2020): 297–318.
 
-MacGillis, Alec. “{{% resource_link "3938a3b8-c8d6-4719-9242-db149dd87ce3" "How Germany Saved Its Workforce from Unemployment While Spending Less Per Person Than the US" %}},” *ProPublica*, June 3, 2020.
+MacGillis, Alec. “[How Germany Saved Its Workforce from Unemployment While Spending Less Per Person Than the US](https://www.propublica.org/article/how-germany-saved-its-workforce-from-unemployment-while-spending-less-per-person-than-the-u-s),” *ProPublica*, June 3, 2020.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -264,17 +264,17 @@ Scandinavia I: Swedish Social Democracy
 
 *View*
 
-“{{% resource_link "89e772e5-87f2-464f-9513-9658547cc56d" "How Sweden Balances High Taxes And Growth" %}}.” YouTube.
+“[How Sweden Balances High Taxes And Growth](https://www.youtube.com/watch?v=j0Z_fODM5gE).” YouTube.
 
 *Read*
 
-Steinmo, Sven. “Sweden: The Evolution of a Bumble Bee.” Chapter 2 in *The Evolution of Modern States: Sweden, Japan, and the United States*. Cambridge University Press, 2011. ISBN: 9780521145466. \[Preview with {{% resource_link "af344660-dc6a-44c2-b274-bedaf3ae705b" "Google Books" %}}\]
+Steinmo, Sven. “Sweden: The Evolution of a Bumble Bee.” Chapter 2 in *The Evolution of Modern States: Sweden, Japan, and the United States*. Cambridge University Press, 2011. ISBN: 9780521145466. \[Preview with [Google Books](https://www.google.com/books/edition/The_Evolution_of_Modern_States/Kzk87VMgrQMC?hl=en&gbpv=1)\]
 
-Einhorn, Eric S., and John Logue. “{{% resource_link "a652e8b1-c415-438f-b749-db78627f6713" "Can Welfare States Be Sustained in a Global Economy? Lessons from Scandinavia" %}}.” *Political Science Quarterly* 125, no. 1 (2010): 1–29.
+Einhorn, Eric S., and John Logue. “[Can Welfare States Be Sustained in a Global Economy? Lessons from Scandinavia](https://go.gale.com/ps/anonymous?id=GALE%7CA224405038&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=00323195&p=AONE&sw=w).” *Political Science Quarterly* 125, no. 1 (2010): 1–29.
 
-Blanc-Noel, Nathalie. “{{% resource_link "c2a655c3-2d8a-4692-8215-331a418863d0" "Resolving the Dilemma between Equality and Liberty: The Swedish Political System" %}}.” *Eastern Journal of European Studies* 4, no. 1 (2013): 25–40.
+Blanc-Noel, Nathalie. “[Resolving the Dilemma between Equality and Liberty: The Swedish Political System](https://www.researchgate.net/publication/258241619_Resolving_the_dilemma_between_equality_and_liberty_the_Swedish_political_system).” *Eastern Journal of European Studies* 4, no. 1 (2013): 25–40.
 
-Rydgren, Jens, and Sara van der Meiden. {{% resource_link "c616a62b-6a5b-4ba6-a221-66747afdd6e8" "“The Radical Right and the End of Swedish Exceptionalism.” (PDF)" %}} *European Political Science* 18 (2019): 439–55.
+Rydgren, Jens, and Sara van der Meiden. [“The Radical Right and the End of Swedish Exceptionalism.” (PDF)](https://d-nb.info/1161725326/34) *European Political Science* 18 (2019): 439–55.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -284,23 +284,23 @@ Scandinavia II: Swedish Politics and Political Economy
 
 *View*
 
-“{{% resource_link "d85ad7fa-3aa8-4ed0-8809-18e8516b2218" "Inside Sweden’s Silicon Valley" %}}.” YouTube.
+“[Inside Sweden’s Silicon Valley](https://www.youtube.com/watch?v=d915p1aXlkE).” YouTube.
 
 *Read*
 
-\[B\] Chapter 4: Family Policy. \[Preview with {{% resource_link "d69d0c0b-2ffc-4920-aa6e-0f642ffaa1f8" "Google Books" %}}\]
+\[B\] Chapter 4: Family Policy. \[Preview with [Google Books](https://www.google.com/books/edition/Capitalisms_Compared/emIXBAAAQBAJ?hl=en&gbpv=1&dq=Capitalisms+Compared:+Welfare,+Work,+and+Business&printsec=frontcover)\]
 
 Pontusson, Jonas. “Once Again A Model? Nordic Social Democracy in a Globalized World.” In *What’s Left of the Left: Democrats and Social Democrats in Challenging Times*. Edited by James Cronin, George Ross, and James Shoch. Duke University Press Books, 2011. ISBN: 9780822350798. 
 
-L.S. “{{% resource_link "ec8cc909-8433-494f-994b-92c2ffc92af0" "Start-Ups in Sweden: Standing Out without Showing It" %}}.” *The Economist*, May 31, 2013.
+L.S. “[Start-Ups in Sweden: Standing Out without Showing It](https://www.economist.com/schumpeter/2013/05/31/standing-out-without-showing-it).” *The Economist*, May 31, 2013.
 
-“{{% resource_link "f6be50fb-abe6-4e62-a837-aee2128cead5" "The Wallenbergs: Sweden’s Enduring Business Dynasty" %}}.” *The Economist*, October 12, 2006.
+“[The Wallenbergs: Sweden’s Enduring Business Dynasty](https://www.economist.com/special-report/2006/10/12/swedens-enduring-business-dynasty).” *The Economist*, October 12, 2006.
 
-Goodman, Peter S. “{{% resource_link "d8875f6c-008d-4847-8085-5db3e0494aaf" "The Robots Are Coming, and Sweden Is Fine" %}},” *New York Times*, December 27, 2017.
+Goodman, Peter S. “[The Robots Are Coming, and Sweden Is Fine](https://www.nytimes.com/2017/12/27/business/the-robots-are-coming-and-sweden-is-fine.html),” *New York Times*, December 27, 2017.
 
-Heyman, Fredrik, Pehr-Johan Norbäck, and Lars Persson. “{{% resource_link "77aa3c2c-d79d-4a00-9e82-a1194bb5c6b8" "How Sweden Became More Entrepreneurial than the US" %}}.” VoxEU. August 12, 2019.
+Heyman, Fredrik, Pehr-Johan Norbäck, and Lars Persson. “[How Sweden Became More Entrepreneurial than the US](https://voxeu.org/article/how-sweden-became-more-entrepreneurial-us).” VoxEU. August 12, 2019.
 
-Thelen, Kathleen. {{% resource_link "f62600dd-86c8-4e72-b421-3bfc8ca80bf2" "“Transitions to the Knowledge Economy in Germany, Sweden, and the Netherlands.” (PDF)" %}} *Comparative Politics* 51, no. 2 (2019): 295–315.
+Thelen, Kathleen. [“Transitions to the Knowledge Economy in Germany, Sweden, and the Netherlands.” (PDF)](https://dspace.mit.edu/bitstream/handle/1721.1/120560/thelen%20transitions%20to%20the%20knowledge%20economy.pdf?sequence=1&isAllowed=y) *Comparative Politics* 51, no. 2 (2019): 295–315.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -312,25 +312,25 @@ Scandinavia III: The Danish Variant on the Nordic Model
 
 Former (conservative) Danish PM explains the Nordic model:
 
-“{{% resource_link "1f73a25b-2e3c-4c51-9a7a-c88ac5cb0ea6" "Nordic Solutions and Challenges – A Danish Perspective" %}}.” YouTube.
+“[Nordic Solutions and Challenges – A Danish Perspective](https://www.youtube.com/watch?v=MgrJnXZ_WGo&feature=youtu.be).” YouTube.
 
-“{{% resource_link "d49273cf-315a-48d5-8c87-dd4d6aa9fa8e" "How Denmark Aims to Run on Clean Energy" %}}.” YouTube.
+“[How Denmark Aims to Run on Clean Energy](https://www.youtube.com/watch?v=PfvqGwoZAq8).” YouTube.
 
 *Read*
 
 Daemmrich, Arthur, and Thomas Bredgaard. “The Welfare State as an Investment Strategy: Denmark’s Flexicurity Policies.” Chapter 7 in *The Oxford Handbook of Offshoring and Global Employment*. Edited by Ashok Bardhan, Dwight M. Jaffee, and Cynthia A. Kroll. Oxford University Press, 2013. ISBN: 9780199765904. 
 
-Farrell, Henry. {{% resource_link "95dce3b8-8e29-49b1-8ee1-c88eb0b51a6f" "“Bernie Sanders Says Denmark Is Socialist. Forbes Magazine Says It’s the Most Business Friendly Country. Who’s Right?,” (PDF)" %}} *Washington Post*, November 11, 2015.
+Farrell, Henry. [“Bernie Sanders Says Denmark Is Socialist. Forbes Magazine Says It’s the Most Business Friendly Country. Who’s Right?,” (PDF)](https://pure.mpg.de/rest/items/item_2228203_4/component/file_2228201/content) *Washington Post*, November 11, 2015.
 
 Two very different responses to COVID-19:
 
 - *Denmark “freezes” the economy*
-    - Thompson, Derek. “{{% resource_link "4f429a99-cba1-408c-b412-c8e1f7422662" "Denmark’s Idea Could Help the World Avoid a Great Depression" %}}.” *The Atlantic*, March 21, 2020.
-    - Goodman, Peter S. “{{% resource_link "09f1a327-105e-4d91-982a-ad11526cf4f9" "The Nordic Way to Economic Rescue" %}},” *New York Times*, March 28, 2020.
+    - Thompson, Derek. “[Denmark’s Idea Could Help the World Avoid a Great Depression](https://www.theatlantic.com/ideas/archive/2020/03/denmark-freezing-its-economy-should-us/608533/).” *The Atlantic*, March 21, 2020.
+    - Goodman, Peter S. “[The Nordic Way to Economic Rescue](https://www.nytimes.com/2020/03/28/business/nordic-way-economic-rescue-virus.html),” *New York Times*, March 28, 2020.
 - *Sweden lets it rip*
-    - Goodman, Peter S. “{{% resource_link "45fff839-1e39-4cc1-ad67-d920b81f6ad5" "Sweden Has Become the World's Cautionary Tale" %}},” *New York Times*, July 7, 2020.
-    - “{{% resource_link "04d07686-fc76-4d28-84cc-00c971cd282f" "Dr. Anders Tegnell - Sweden’s Decision Not to Impose Quarantine | The Daily Social Distancing Show" %}}.” YouTube.
-    - Karlson, Nils, Charlotta Stern, and Daniel Klein. “{{% resource_link "49e2aeec-942f-4ced-9dcc-f1025cfc82b6" "The Underpinnings of Sweden’s Permissive COVID Regime" %}}.” VoxEU. April 20, 2020.
+    - Goodman, Peter S. “[Sweden Has Become the World's Cautionary Tale](https://www.nytimes.com/2020/07/07/business/sweden-economy-coronavirus.html),” *New York Times*, July 7, 2020.
+    - “[Dr. Anders Tegnell - Sweden’s Decision Not to Impose Quarantine | The Daily Social Distancing Show](https://www.youtube.com/watch?v=ypwoyVl5Dxk).” YouTube.
+    - Karlson, Nils, Charlotta Stern, and Daniel Klein. “[The Underpinnings of Sweden’s Permissive COVID Regime](https://voxeu.org/article/underpinnings-sweden-s-permissive-covid-regime).” VoxEU. April 20, 2020.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -340,6 +340,6 @@ Whither Europe?
 
 *View*
 
-“{{% resource_link "d737670f-60df-4b02-90d1-a6a347df06cd" "Right-wing Populists and the EU | DW Documentary" %}}.” YouTube.
+“[Right-wing Populists and the EU | DW Documentary](https://www.youtube.com/watch?v=uo0dFWOMaDM&list=PLovlAKbQVz6B7ejlCOfz1x7lDgHONJJkh&index=29).” YouTube.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
